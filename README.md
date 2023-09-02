@@ -15,9 +15,22 @@ Managing a large fleet of vehicles manually is prone to errors, making it diffic
 Customer interactions and feedback collection are inefficient, making it challenging to address customer concerns and improve services.
 
 # PROPER TEMPLATE USAGE
+To use the waterfall model in a vehicle rental management system, the following steps can be taken:
+1. Requirements gathering: Gather all the requirements for the system from stakeholders, including the features and functionalities that the system should have.
+2. System design: Design the system architecture, including the database schema, user interface, and system modules.
+3. Implementation: Develop the system modules and integrate them into the system.
+4. Testing: Test the system to ensure that it meets the requirements and is free of bugs and errors.
+5. Deployment: Deploy the system to the production environment.
+6. Maintenance: Provide ongoing maintenance and support for the system.
+
+The waterfall model is a linear and strict set of stages during the development process. It follows a particular process model and can be used in the development of a car rental system. The iterative waterfall model is another development methodology that can be used in the development of a car rental management system. The system architecture can be designed using the SDLC framework, which describes all activities and processes in a software development project. The proposed system can be an online system that is fully integrated and automates manual procedures
 
 # TEAM
-Direct Customer, Indirect Customer, Architect, Business Analyst, Quality Assurance Team, System Analyst.
+1. AAYUSHA BHATIA
+2. AASTHA ARORA
+3. AYUSHI MAHAJAN
+4. ABHISHEK RAJPUT
+5. RAVINDRANATH TAMBADE
 
 # FUNCTIONAL REQUIREMENT
 1.	User Registration and Authentication:
@@ -44,7 +57,7 @@ Direct Customer, Indirect Customer, Architect, Business Analyst, Quality Assuran
 	The system should generate reports on revenue, vehicle utilization, customer activity, and other relevant metrics.
 	Analytics features should allow administrators to make data-driven decisions regarding fleet management and pricing strategies.
 
-# NON-FUCTIONAL REQUIREMENT
+# NON-FUNCTIONAL REQUIREMENT
 1.	Performance:
 	The system should be capable of handling a minimum of 500 concurrent users without significant performance degradation.
 	Response times for common tasks (e.g., searching for vehicles, making reservations) should be under 2 seconds.
